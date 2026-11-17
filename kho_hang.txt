@@ -1,0 +1,10 @@
+SP001|Laptop HP Pavilion|May Tinh|Chiec|HP|15000000|17000000|15|5|Con hang
+SP002|Laptop Dell XPS|May Tinh|Chiec|Dell|25000000|28000000|8|3|Con hang
+SP003|Chuot Logitech|Phu Kien|Cai|Logitech|200000|350000|50|20|Con hang
+SP004|Ban Phim Co AKKO|Phu Kien|Cai|AKKO|1200000|1500000|12|10|Con hang
+SP005|Man hinh Samsung 27|Man Hinh|Chiec|Samsung|3500000|4200000|4|5|Con hang
+SP006|Tai nghe Sony|Phu Kien|Cai|Sony|800000|1100000|3|10|Het hang
+SP007|MacBook Air M2|May Tinh|Chiec|Apple|24000000|27000000|10|5|Con hang
+SP008|Ghe cong thai hoc|Noi That|Chiec|Herman|4500000|5500000|2|5|Con hang
+SP009|Card RTX 3060|Linh Kien|Cai|Nvidia|7000000|8500000|20|10|Con hang
+SP010|RAM 16GB DDR4|Linh Kien|Thanh|Kingston|1000000|1300000|45|20|Con hang
